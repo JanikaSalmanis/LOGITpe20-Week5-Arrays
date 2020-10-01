@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.exe
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.deps.json
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.runtimeconfig.json
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.dll
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\bin\Debug\netcoreapp3.1\Week5Arrays.pdb
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.dll
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.pdb
+C:\Users\opilane\source\repos\Week5Arrays\Week5Arrays\obj\Debug\netcoreapp3.1\Week5Arrays.genruntimeconfig.cache
